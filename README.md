@@ -15,7 +15,7 @@ The scanner retrieves information regarding
 - [Johannes Zirngibl, Technical University of Munich](https://www.net.in.tum.de/members/zirngibl/)
 
 ## Build process
-Can only be used with go 1.16 at the moment.
+Can only be used with go 1.18 at the moment.
 
 - `git pull`
 - `go clean -modcache`
